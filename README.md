@@ -28,5 +28,25 @@ This commands includes
 
 ## Output
 
+### netstat:
+![alt text](<Screenshot 2026-11-25 083947.png>)
+
+### ipconfig:
+![alt text](<Screenshot 2026-11-25 084023.png>)
+
+### ping:
+![alt text](<Screenshot 2026-11-25 084044.png>)
+
+### tracert:
+![alt text](<Screenshot 2026-11-25 084142.png>)
+
+### nslookup:
+![alt text](<Screenshot 2026-11-25 084433.png>)
+
+### getmac:
+![alt text](<Screenshot 2026-11-25 084516.png>)
+
+### hostname:
+![alt text](<Screenshot 2026-11-25 084552.png>)
 ## Result
 Thus Execution of Network commands Performed 
